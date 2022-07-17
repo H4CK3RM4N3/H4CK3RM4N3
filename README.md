@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shane and I'm a grad student currently doing an Master's in Data Science and Artificial Intelligence. I've done everything from
-- professional football to academic philosophy, so programmning and statistics is just a continuation of the exploration phase of the k-armed bandit
-- problem that is my life.
+- professional football to academic philosophy, so programmning and statistics is just a continuation of the exploration phase of the k-armed bandit problem that is my life.
 -  I'm mainly interested in statistics, applying Machine Learning to things I'm curious about, and the philosophical implications of AI.
 -  The only language I'm moderately capable in is Python, with some basic knowledge of Java and HTML.
 -
